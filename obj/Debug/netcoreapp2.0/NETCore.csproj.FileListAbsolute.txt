@@ -1,0 +1,11 @@
+C:\Users\JHON DAVID CASTILLO\Desktop\developer-2018\GITHUB\NETCore\bin\Debug\netcoreapp2.0\NETCore.deps.json
+C:\Users\JHON DAVID CASTILLO\Desktop\developer-2018\GITHUB\NETCore\bin\Debug\netcoreapp2.0\NETCore.runtimeconfig.json
+C:\Users\JHON DAVID CASTILLO\Desktop\developer-2018\GITHUB\NETCore\bin\Debug\netcoreapp2.0\NETCore.runtimeconfig.dev.json
+C:\Users\JHON DAVID CASTILLO\Desktop\developer-2018\GITHUB\NETCore\bin\Debug\netcoreapp2.0\NETCore.dll
+C:\Users\JHON DAVID CASTILLO\Desktop\developer-2018\GITHUB\NETCore\bin\Debug\netcoreapp2.0\NETCore.pdb
+C:\Users\JHON DAVID CASTILLO\Desktop\developer-2018\GITHUB\NETCore\obj\Debug\netcoreapp2.0\NETCore.csprojAssemblyReference.cache
+C:\Users\JHON DAVID CASTILLO\Desktop\developer-2018\GITHUB\NETCore\obj\Debug\netcoreapp2.0\NETCore.csproj.CoreCompileInputs.cache
+C:\Users\JHON DAVID CASTILLO\Desktop\developer-2018\GITHUB\NETCore\obj\Debug\netcoreapp2.0\NETCore.AssemblyInfoInputs.cache
+C:\Users\JHON DAVID CASTILLO\Desktop\developer-2018\GITHUB\NETCore\obj\Debug\netcoreapp2.0\NETCore.AssemblyInfo.cs
+C:\Users\JHON DAVID CASTILLO\Desktop\developer-2018\GITHUB\NETCore\obj\Debug\netcoreapp2.0\NETCore.dll
+C:\Users\JHON DAVID CASTILLO\Desktop\developer-2018\GITHUB\NETCore\obj\Debug\netcoreapp2.0\NETCore.pdb
